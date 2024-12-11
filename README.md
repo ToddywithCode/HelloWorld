@@ -3,8 +3,8 @@
 ## 🚀 Sobre Mim
 
 Sou estudante de Desenvolvimento de Software, apaixonado por tecnologia, games e programação. Estou em busca de aprender novas habilidades e me aprimorar em diversas linguagens e ferramentas.
-- 🌱 Atualmente estudando Curso Técnico de Desenvolvimento de Sistemas
-- 💻 Linguagens que estou aprendendo: JavaScript, Java
+- 🌱 Atualmente estudando Curso Técnico de Desenvolvimento de Sistemas do SenacRS
+- 💻 Linguagens que estou aprendendo: JavaScript, Java, MySQL...
 - 📚 Projetos em andamento: 🚧🚧em breve🚧🚧
 
 
